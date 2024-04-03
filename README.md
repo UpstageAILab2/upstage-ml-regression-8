@@ -18,10 +18,10 @@
 <td> <div align=center> <b>김종완</b> </div> </td>
 </tr>
 <tr>
-<td> <img alt="Github" src="https://i.ibb.co/yydQ7j8/image.png" width="250" height="300"/> </td>
-<td> <img alt="Github" src="https://i.ibb.co/KF0w5S0/image.png" width="300" height="300"/> </td>
-<td> <img alt="Github" src="https://i.ibb.co/drKyHYz/image.png" width="300" height="300"/> </td>
-<td> <img alt="Github" src="https://avatars.githubusercontent.com/u/156163982?v=4" width="300" height="300"/> </td>
+<td> <img alt="Github" src="https://i.ibb.co/yydQ7j8/image.png" width="150" height="150"/> </td>
+<td> <img alt="Github" src="https://i.ibb.co/KF0w5S0/image.png" width="150" height="150"/> </td>
+<td> <img alt="Github" src="https://i.ibb.co/drKyHYz/image.png" width="150" height="150"/> </td>
+<td> <img alt="Github" src="https://avatars.githubusercontent.com/u/156163982?v=4" width="150" height="150"/> </td>
 </tr>
 <tr>
 <td> <div align=center> <a href="https://github.com/sommizzu"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </a></div> </td>
