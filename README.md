@@ -51,6 +51,19 @@
 
 ### Directory
 ```python
+project/
+│
+├── src/            # Figures & plots
+│
+├── data/           # Dataset
+│
+├── collection/     # Data collection & preprocessing scripts
+│
+├── model/          # Model tuning & training code
+│
+├── docs/           # Project reports & documentation
+│
+└── README.md       # Project overview
 ```
 
 ## Data description
